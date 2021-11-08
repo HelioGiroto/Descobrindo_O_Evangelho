@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Descobrindo o Evangelho</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        h1,
+        h2,
+        h3,
+        h4,
+        p,
+        header,
+        footer {
+            text-align: center;
+        }
+
+        a {
+            cursor: pointer;
+            color: white;
+            font-weight: bold;
+        }
+
+        .img {
+            display: flex;
+            justify-content: center;
+        }
+
+        img {
+            width: 80%;
+            height: 80%;
+        }
+
+        .lista {
+            display: flex;
+            flex-flow: column;
+            align-items: center;
+            padding: 15px;
+        }
+
+        details {
+            display: flex;
+            justify-content: center;
+            margin-bottom: 20px;
+        }
+
+        summary {
+            padding: 5px;
+            font-size: 2em;
+            color: white;
+            font-weight: bold;
+            text-align: center;
+            width: 80vw;
+            background-image:
+                linear-gradient(to top right,
+                    rgb(184, 58, 0), rgb(5, 74, 105));
+        }
+
+        summary::marker {
+            content: "";
+        }
+
+        .pDetails {
+            font-size: 1.4em;
+        }
+
+        .bt {
+            margin-top: 5px;
+            width: 30%;
+            height: 30%;
+            /* Centraliza imagem: https://www.w3.org/Style/Examples/007/center.en.html */
+            margin-left: auto;
+            margin-right: auto
+        }
+
+        footer {
+            position: relative;
+            bottom: 0;
+            width: 100%;
+            padding: 10px 0;
+            background: darkslategrey;
+            color: white;
+        }
+    </style>
+
+    <script src="episodios.js"></script>
+</head>
+
+<body>
+    <h1>Episódios do Programa "Descobrindo o Evangelho</h1>
+    <h3>Apresentação: Hélio Giroto</h3>
+
+    <h2>De Domingo à Sexta-feira às 21h (BR-SP)</h2>
+
+    <div class="main">
+        <div class="img"><img src="capa.png"></div>
+        <h2>EVANGELHO DE MATEUS</h2>
+        <h3>TODOS OS EPISÓDIOS:</h3>
+        <div class="lista">
+        </div>
+    </div>
+
+    <footer>
+        <p>RÁDIO JESUS 24 HORAS FM - Acesse: <a href="https://www.jesus24horas.com">www.jesus24horas.com</a></p>
+    </footer>
+
+    <script src="main.js"></script>
+</body>
+
+</html>
