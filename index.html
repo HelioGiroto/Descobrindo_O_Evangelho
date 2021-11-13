@@ -5,11 +5,21 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;400&display=swap" rel="stylesheet">
+
     <title>Descobrindo o Evangelho</title>
     <style>
         * {
             margin: 0;
             padding: 0;
+        }
+
+        body {
+            background: #E8E8E8;
         }
 
         h1,
@@ -28,6 +38,11 @@
             font-weight: bold;
         }
 
+        .cabecalho {
+            margin: 20px auto;
+            padding: 0 30px;
+        }
+
         .img {
             display: flex;
             justify-content: center;
@@ -36,6 +51,12 @@
         img {
             width: 80%;
             height: 80%;
+        }
+
+        .player {
+            display: flex;
+            flex-flow: row;
+            justify-content: center;
         }
 
         .lista {
@@ -48,19 +69,22 @@
         details {
             display: flex;
             justify-content: center;
-            margin-bottom: 20px;
+            margin: 10px 20px;
         }
 
         summary {
-            padding: 5px;
-            font-size: 2em;
+            padding: 7px;
+            font-size: 1.2em;
             color: white;
             font-weight: bold;
             text-align: center;
             width: 80vw;
-            background-image:
+            font-family: 'Montserrat', sans-serif;
+            background: rgb(5, 74, 105);
+            /* background-image:
                 linear-gradient(to top right,
-                    rgb(184, 58, 0), rgb(5, 74, 105));
+                    rgb(184, 58, 0), rgb(5, 74, 105)); 
+            */
         }
 
         summary::marker {
@@ -69,6 +93,7 @@
 
         .pDetails {
             font-size: 1.4em;
+            padding: 10px 0;
         }
 
         .bt {
@@ -85,8 +110,26 @@
             bottom: 0;
             width: 100%;
             padding: 10px 0;
+            padding-bottom: 20px;
             background: darkslategrey;
             color: white;
+            margin-top: 20px;
+        }
+
+        .montserrat {
+            font-family: 'Montserrat', sans-serif;
+        }
+
+        .comfortaa {
+            font-family: 'Comfortaa', cursive;
+        }
+
+        .lato {
+            font-family: 'Lato', sans-serif;
+        }
+
+        .josefin {
+            font-family: 'Josefin Sans', sans-serif;
         }
     </style>
 
@@ -94,21 +137,29 @@
 </head>
 
 <body>
-    <h1>Episódios do Programa "Descobrindo o Evangelho</h1>
-    <h3>Apresentação: Hélio Giroto</h3>
-
-    <h2>De Domingo à Sexta-feira às 21h (BR-SP)</h2>
+    <div class="cabecalho">
+        <h2 class="josefin">Episódios do Programa:</h2>
+        <h1 class="josefin">Descobrindo o Evangelho</h1>
+        <h3 class="josefin">Apresentação: Hélio Giroto</h3>
+        <br>
+        <h2 class="montserrat">De Domingo à Sexta-feira às 21h (BR-SP)</h2>
+    </div>
 
     <div class="main">
         <div class="img"><img src="capa.png"></div>
-        <h2>EVANGELHO DE MATEUS</h2>
-        <h3>TODOS OS EPISÓDIOS:</h3>
+        <div class="player">
+            <audio id="faixa"></audio>
+        </div>
+        <br>
+        <h2 class="lato">EVANGELHO DE MATEUS</h2>
+        <h3 class="lato">TODOS OS EPISÓDIOS:</h3>
         <div class="lista">
         </div>
     </div>
 
     <footer>
-        <p>RÁDIO JESUS 24 HORAS FM - Acesse: <a href="https://www.jesus24horas.com">www.jesus24horas.com</a></p>
+        <p class="josefin">RÁDIO JESUS 24 HORAS FM<br>Acesse: <a
+                href="https://www.jesus24horas.com">www.jesus24horas.com</a></p>
     </footer>
 
     <script src="main.js"></script>
