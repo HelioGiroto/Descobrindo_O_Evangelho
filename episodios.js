@@ -5,7 +5,7 @@ let episodios = [
         hora: "",
         arquivo: "Mt0.mp3",
         titulo: "O contexto deste Evangelho",
-        descricao: "Introdução ao ambiente da época e as 3 visões judaicas sobre o Messias"
+        descricao: "Introdução ao ambiente da época e sobre as 3 visões judaicas sobre o Messias"
     }, 
 
     {
@@ -13,7 +13,7 @@ let episodios = [
         hora: "",
         arquivo: "Mt1.mp3",
         titulo: "Cap. 1",
-        descricao: "Gentios na descendência do Messias e Seu nascimento"
+        descricao: "Gentios na descendência do Messias e Seu nascimento virginal e milagroso"
     }, 
 
     {
@@ -21,7 +21,7 @@ let episodios = [
         hora: "",
         arquivo: "Mt2.mp3",
         titulo: "Cap. 2 - parte 1",
-        descricao: "Quem é e qual a missão do Messias explicado pelas profecias e pelos anjos"
+        descricao: "Quem é e qual a missão do Messias explicado pelas profecias e pelos anjos. O significado de salvação. A oferta dos três magos"
     }, 
 
     {
@@ -29,7 +29,7 @@ let episodios = [
         hora: "",
         arquivo: "Mt2b.mp3",
         titulo: "Cap. 2 - parte 2",
-        descricao: "A importância de José e Maria na vida de Jesus. A oferta dos três magos"
+        descricao: "A importância de José e Maria na vida de Jesus"
     }, 
 
     {
@@ -37,7 +37,7 @@ let episodios = [
         hora: "",
         arquivo: "Mt3.mp3",
         titulo: "Cap. 3 - parte 1",
-        descricao: "A aparição de João Batista"
+        descricao: "A aparição de João, o Batista - Quem foi e porque Deus precisou dele"
     }, 
 
     {
@@ -45,7 +45,7 @@ let episodios = [
         hora: "",
         arquivo: "Mt3b.mp3",
         titulo: "Cap. 3 - parte 2",
-        descricao: "A mensagem que ensina a como entrar no Reino de Deus"
+        descricao: "A grande mensagem que Jesus adotou de João Batista que nos ensina a como entrar no Reino de Deus. Os três tempos do Reino de Deus."
     }, 
 
     {
@@ -62,6 +62,22 @@ let episodios = [
         arquivo: "Mt4.mp3",
         titulo: "Cap. 4 - parte 1",
         descricao: "As tentações de Jesus e a existência do diabo"
+    }, 
+
+    {
+        data: "",
+        hora: "",
+        arquivo: "",
+        titulo: "Cap. 4 - parte 2",
+        descricao: "A prisão de João Batista. Como foi o ministério de Jesus. O que é ser discípulo"
+    }, 
+
+    {
+        data: "",
+        hora: "",
+        arquivo: "",
+        titulo: "Tema da 2a. Feira:",
+        descricao: "Jesus iludiu ou enganou aos judeus da época aobre o Reino de Deus? NÃO PERCA!"
     }, 
 
 ]
