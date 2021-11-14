@@ -5,7 +5,7 @@ let episodios = [
         hora: "",
         arquivo: "Mt0.mp3",
         titulo: "O contexto deste Evangelho",
-        descricao: "Introdução ao ambiente da época e sobre as 3 visões judaicas sobre o Messias"
+        descricao: "Uma 'viagem' ao ambiente da época e introdução às 3 visões judaicas sobre o Messias"
     }, 
 
     {
@@ -45,7 +45,7 @@ let episodios = [
         hora: "",
         arquivo: "Mt3b.mp3",
         titulo: "Cap. 3 - parte 2",
-        descricao: "A grande mensagem que Jesus adotou de João Batista que nos ensina a como entrar no Reino de Deus. Os três tempos do Reino de Deus."
+        descricao: "O que é o Reino de Deus e a grande mensagem que Jesus adotou de João Batista sobre como entrar nele. Os três tempos do Reino."
     }, 
 
     {
