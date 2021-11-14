@@ -77,7 +77,7 @@ let episodios = [
         hora: "",
         arquivo: "",
         titulo: "Tema da 2a. Feira:",
-        descricao: "Jesus iludiu ou enganou aos judeus da época aobre o Reino de Deus? NÃO PERCA!"
+        descricao: "Será que Jesus iludiu ou enganou aos judeus da época a respeito do Reino de Deus? NÃO PERCA!"
     }, 
 
 ]
