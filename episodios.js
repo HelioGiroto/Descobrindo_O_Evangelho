@@ -29,7 +29,7 @@ let episodios = [
         hora: "",
         arquivo: "Mt2b.mp3",
         titulo: "Cap. 2 - parte 2",
-        descricao: "A importância de José e Maria na vida de Jesus"
+        descricao: "A importância de José e Maria na vida de Jesus. A liderança do homem numa família. A primeira perseguição contra o Messias e os primeiros mártires da Era Cristã"
     }, 
 
     {
@@ -37,7 +37,7 @@ let episodios = [
         hora: "",
         arquivo: "Mt3.mp3",
         titulo: "Cap. 3 - parte 1",
-        descricao: "A aparição de João, o Batista - Quem foi e porque Deus precisou dele"
+        descricao: "A aparição de João, o Batista - Quem foi e porque Deus precisou dele. As vantagens da obediência. A mulher submissa"
     }, 
 
     {
@@ -53,7 +53,7 @@ let episodios = [
         hora: "",
         arquivo: "Mt3c.mp3",
         titulo: "Cap. 3 - parte 3",
-        descricao: "O batismo de Jesus e a Tri-Unidade de Deus"
+        descricao: "O batismo de Jesus e a Tri-Unidade de Deus. O verdadeiro modelo bíblico de batismo. Seria Jesus um 'Deus menor' que o Pai?"
     }, 
 
     {
@@ -61,7 +61,7 @@ let episodios = [
         hora: "",
         arquivo: "Mt4.mp3",
         titulo: "Cap. 4 - parte 1",
-        descricao: "As tentações de Jesus e a existência do diabo"
+        descricao: "As tentações de Jesus e a existência do diabo. Os três inimigos do homem. A diferença entre tentação e pecado. As armas para vencer o mal"
     }, 
 
     {
