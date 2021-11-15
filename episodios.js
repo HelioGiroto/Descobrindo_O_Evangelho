@@ -67,9 +67,9 @@ let episodios = [
     {
         data: "",
         hora: "",
-        arquivo: "",
+        arquivo: "Mt4b.mp3",
         titulo: "Cap. 4 - parte 2",
-        descricao: "A prisão de João Batista. Como foi o ministério de Jesus. O que é ser discípulo"
+        descricao: "A prisão de João Batista. Como foi o ministério de Jesus. O que é ser discípulo de Cristo"
     }, 
 
     {
