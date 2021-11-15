@@ -37,7 +37,7 @@ let episodios = [
         hora: "",
         arquivo: "Mt3.mp3",
         titulo: "Cap. 3 - parte 1",
-        descricao: "A aparição de João, o Batista - Quem foi e porque Deus precisou dele. As vantagens da obediência. A mulher submissa"
+        descricao: "A aparição de João, o Batista - Quem foi e porque Deus precisou dele. A mulher submissa e as vantagens da obediência"
     }, 
 
     {
@@ -61,7 +61,7 @@ let episodios = [
         hora: "",
         arquivo: "Mt4.mp3",
         titulo: "Cap. 4 - parte 1",
-        descricao: "As tentações de Jesus e a existência do diabo. Os três inimigos do homem. A diferença entre tentação e pecado. As armas para vencer o mal"
+        descricao: "As tentações de Jesus e a existência do diabo. A diferença entre tentação e pecado. Os três inimigos do homem. As armas para vencer o mal"
     }, 
 
     {
