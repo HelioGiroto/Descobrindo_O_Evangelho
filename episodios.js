@@ -76,8 +76,8 @@ let episodios = [
         data: "",
         hora: "",
         arquivo: "Mt4c.mp3",
-        titulo: "Mt 4:17 - Um Rei bom, mas um povo ruim!",
-        descricao: "Será que Jesus iludiu ou enganou aos judeus da época a respeito do Reino de Deus? - parte 1: Como estava o coração do povo de Israel nos dias de Jesus!"
+        titulo: "Um Rei bom, mas um povo ruim!",
+        descricao: "Mt 4:17 - Será que Jesus iludiu ou enganou aos judeus da época a respeito do Reino de Deus? - parte 1: Como estava o coração do povo nos dias de Jesus?"
     }, 
 
 ]
