@@ -1,18 +1,18 @@
 # DE CERTA FORMA, JESUS NÃO ILUDIU (ENGANOU) OS JUDEUS DA SUA ÉPOCA ANUNCIANDO A CHEGADA DO REINO DE DEUS??
 
-	Para responder essa pergunta, precisamos saber:
-		- Qual era a situação dos judeus da época
-		- O que Jesus pretendia fazer com eles
-		- O que era, de fato, o Reino.
-
+Para responder essa pergunta, precisamos saber:
+	- Qual era a situação dos judeus da época
+	- O que Jesus pretendia fazer com eles
+	- O que era, de fato, o Reino.
+ 
 
 
 ## A condição dos judeus daquela época e qual a visão que tinham sobre o "Reino de Deus":
-	- Visão míope sobre o Reino: Não tinham a menor noção do sentido pleno de **reino de Deus** (somente o terrenal).
-	- Oprimidos *há milênios* debaixo de vários impérios **extrangeiros**. Um atrás do outro. Israel era colônia, explorado...
-	- Tinham promessas de libertação, vitória (ponto final naquilo) e reino independente. Apontavam o tempo exato. Ex.: Daniel 2:44; 7:13,14,17,27:
-	- Diabo cegando-lhes o entendimento (2 Coríntios 3:14; 4:3-4):
-	- E coração endurecido.
+- Visão míope sobre o Reino: Não tinham a menor noção do sentido pleno de **reino de Deus** (somente o terrenal).
+- Oprimidos *há milênios* debaixo de vários impérios **estrangeiros**. Um atrás do outro. Israel era colônia, explorado...
+- Tinham promessas de libertação, vitória (ponto final naquilo) e reino independente. Apontavam o tempo exato. Ex.: Daniel 2:44; 7:13,14,17,27:
+- Diabo cegando-lhes o entendimento (2 Coríntios 3:14; 4:3-4):
+- E coração endurecido.
 
 **Já estavam enganados!**
 
@@ -20,18 +20,18 @@
 
 ### Exame "pastoral" do coração deles (O que tinha lá dentro do coração do judeu, no 1o. século):
 
-		Ansiedade* ->	impaciência ->	intolerância (1) ->	imediatismo (2) ->	desilusão (3) ->	mágoa ->	revolta contida (4) +	legalismo religioso (5) ->	orgulho
+Ansiedade* ->	impaciência ->	intolerância (1) ->	imediatismo (2) ->	desilusão (3) ->	mágoa ->	revolta contida (4) +	legalismo religioso (5) ->	orgulho
 
 
-		*   "Não andeis ansiosos.. os gentios que são assim".
-		(1) Racial, não queriam desculpas, "é só do meu jeito".
-			- Curas em Nazaré, falando do centurião romano, muitos do Oriente e Ocidente, etc...
-		(2) Pôr prazos para Deus, ultimatos, não aceitar mais esperar.
-		(3) Com os falsos messias libertadores, piorava ainda mais.
-		(4) No julgamento de Jesus por Pilatos, por ex.
-			- Amai os vossos inimigos, que perseguem, etc...
-		(5) Extremismo. À base de "direitos e deveres". Sem noção de graça (favor) e misericórdia.
-			- Misericórdia quero, não sacrifícios... Tantas críticas aos fariseus.
+*   "Não andeis ansiosos.. os gentios que são assim".
+(1) Racial, não queriam desculpas, "é só do meu jeito".
+	- Curas em Nazaré, falando do centurião romano, muitos do Oriente e Ocidente, etc...
+(2) Pôr prazos para Deus, ultimatos, não aceitar mais esperar.
+(3) Com os falsos messias libertadores, piorava ainda mais.
+(4) No julgamento de Jesus por Pilatos, por ex.
+	- Amai os vossos inimigos, que perseguem, etc...
+(5) Extremismo. À base de "direitos e deveres". Sem noção de graça (favor) e misericórdia.
+	- Misericórdia quero, não sacrifícios... Tantas críticas aos fariseus.
 
 
 
@@ -44,9 +44,8 @@
 
 	- Vir para cumprir as profecias:
 		- Os 3 (4) modelos de Messias do AT:
-			- Filho de Davi 	   - nascido da deascendência real.
-			- Filho do Homem	   - vindo do céu
-			- Sacerdote de Melquisedec - sacerdote para sempre
+			- Filho de Davi 	   - nascido da descendência real.
+			- Filho do Homem	   - vindo do céu			- Sacerdote de Melquisedec - sacerdote para sempre
 			- O Profeta semelhante a Moisés (Dt 18:15-19) - milagres!
 		- Então: Teria que assumir o reino e sacerdócio **eternos**.
 		- Morrer como Servo Sofredor - Dn 9:26, Isaías 52 e 53.
@@ -97,8 +96,8 @@
 		- Sim, Ele teria que ressuscitar porque o Messias deveria reinar eternamente, ou seja: Ele não ficaria morto!
 		- Além disso, teria que voltar dos Céus como se profetizava sobre o Filho do Homem! Dn 7:13; Mt 24:30.
 
-	- O povo judeu ficou desacreditado pela infliência de seus líderes:
-		Quando eles vêem que Jesus foi preso e 
+	- O povo judeu ficou desacreditado pela influência de seus líderes:
+		Quando eles veem que Jesus foi preso e 
 		os sacerdotes, no julgamento de Jesus, começam a persuadir a multidão.
 		Acharam que Ele não traria o Reino de Deus, 
 		e pensaram ser mais um falso messias!
@@ -124,7 +123,7 @@
 \[PARA YOUTUBE]
 
 # Jesus já poderia ter voltado naquela época, mas outra coisa não permitiu que se cumprisse Sua volta!
-# Ahistoria (escatologia porderia ter sido outra!!!
+# A história (escatologia poderia ter sido outra!!!
 # O Reino de Deus já poderia ter vindo à Terra de forma visível.
 # Deus tem um plano B??
 # O que ocorreu para que este Reino não começasse naquele tempo?

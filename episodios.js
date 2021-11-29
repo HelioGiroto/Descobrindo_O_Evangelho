@@ -80,4 +80,12 @@ let episodios = [
         descricao: "Mt 4:17 - Será que Jesus iludiu ou enganou aos judeus da época a respeito do Reino de Deus? - parte 1: Como estava o coração do povo nos dias de Jesus?"
     }, 
 
+    {
+        data: "",
+        hora: "",
+        arquivo: "Mt4d.mp3",
+        titulo: "O Evangelho do Reino",
+        descricao: "O que era o Evangelho do Reino pregado por Jesus"
+    }, 
+
 ]
