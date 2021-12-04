@@ -84,8 +84,16 @@ let episodios = [
         data: "",
         hora: "",
         arquivo: "Mt4d.mp3",
-        titulo: "O Evangelho do Reino",
-        descricao: "O que era o Evangelho do Reino pregado por Jesus"
+        titulo: "Um Evangelho e uma Exigência!",
+        descricao: "Mt 4:17 - Parte 2: Como é, de fato, o arrependimento que Deus espera também de você!"
+    }, 
+
+    {
+        data: "",
+        hora: "",
+        arquivo: "Mt4e.mp3",
+        titulo: "A grande expectativa pelo Messias em Israel",
+        descricao: "Mt 4:17 - Parte 3: Por que os judeus do primeiro século tinham tanta expectativa pelo aparecimento do Messias naquela época e as incríveis profecias de Daniel, o profeta!"
     }, 
 
 ]
