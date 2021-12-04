@@ -85,7 +85,7 @@ let episodios = [
         hora: "",
         arquivo: "Mt4d.mp3",
         titulo: "Um Evangelho e uma Exigência!",
-        descricao: "Mt 4:17 - Parte 2: Como é, de fato, o arrependimento que Deus espera também de você!"
+        descricao: "Mt 4:17 - Parte 2: Como é, de fato, o arrependimento que Deus espera também de você! Você tem medo de não conseguir se manter fiel a Deus? A cidadania do Reino."
     }, 
 
     {
