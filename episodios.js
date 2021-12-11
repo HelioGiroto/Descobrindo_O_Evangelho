@@ -96,4 +96,12 @@ let episodios = [
         descricao: "Mt 4:17 - Parte 3: Por que os judeus do primeiro século tinham tanta expectativa pelo aparecimento do Messias naquela época e as incríveis profecias de Daniel, o profeta!"
     }, 
 
+    {
+        data: "",
+        hora: "",
+        arquivo: "Mt4f.mp3",
+        titulo: "As pretensões de Jesus com os judeus",
+        descricao: "Mt 4:17 - Parte 4: As reais intensões de Jesus de Nazaré sobre o Reino de Deus. Por que o povo não quis se arrepender?  O 'golpe' que os principais de Israel pretendiam dar em Jesus."
+    }, 
+
 ]
